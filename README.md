@@ -51,7 +51,7 @@ I'm a passionate developer who loves building intelligent solutions that solve r
 ## 🔥 Streaks & Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkurSi18228&theme=tokyonight" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=AnkurSi18228&theme=tokyonight" alt="GitHub Streak" /> -->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurSi18228&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
