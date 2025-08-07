@@ -1,29 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ankur Singh</h1>
-<h3 align="center">Data Analyst | Designer | Full-Stack Developer</h3>
+<div align="center">
+  <h1>👋 Hi there, I'm Ankur!</h1>
+  <p>AI Developer & Python Enthusiast from Lucknow, India 🇮🇳</p>
+</div>
 
 ---
 
-🌱 I’m a multi-disciplinary tech enthusiast with a passion for turning **data into decisions**, designing **intuitive user interfaces**, and building **smart web solutions**.  
-💼 With a background in **Data Science, Web Development, and Graphic Design**, I love blending code and creativity.
+## 🚀 About Me
+
+I'm a passionate developer who loves building intelligent solutions that solve real-world problems. Currently focused on AI-powered tools and social media analytics, I enjoy exploring the intersection of technology and business innovation.
+
+- 🔭 I'm currently working on **AI tools for Instagram comment analysis**
+- 🌱 I'm learning **Advanced Machine Learning & Business Development**
+- 💡 I'm interested in **AI automation, social media tools, and entrepreneurship**
+- 🎯 Goal: Building scalable tech solutions that make a difference
+- 📍 Based in **Lucknow, Uttar Pradesh, India**
+- ⚡ Fun fact: I'm planning to start my own custom apparel business!
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages**: Python, C++, HTML, CSS, Bootstrap  
-- **Data Tools**: Jupyter Notebook, Power BI, Tableau  
-- **Frameworks**: Streamlit  
-- **Others**: GitHub, MS Office, Adobe tools (Photoshop/Premiere Pro etc.)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankur-singh2704/)](https://linkedin.com/in/ankur-singh2704)
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkurSi18228&show_icons=true&theme=tokyonight" alt="Ankur's GitHub stats" />
@@ -31,7 +48,7 @@
 
 ---
 
-### 🔥 Streaks & Languages
+## 🔥 Streaks & Languages
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnkurSi18228&theme=tokyonight" alt="GitHub Streak" />
@@ -41,17 +58,43 @@
 
 ---
 
-### ✨ Fun Fact
+## 🎯 Current Focus
 
-> "Design is intelligence made visible. And Data is the voice of hidden stories — I listen to both."
+- 🔥 Building advanced AI tools for social media analysis
+- 📚 Learning machine learning algorithms and deep learning
+- 🚀 Developing scalable Python applications
+- 💡 Exploring business automation solutions
+- 🌐 Contributing to open-source projects
 
 ---
 
-<!-- Add your pinned projects here later when you're ready! -->
+## 🤝 Let's Connect!
 
+I'm always open to interesting conversations and collaboration opportunities!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankur-singh2704/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<!--   <a href="your-twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a> -->
+<!--   <a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a> -->
+<!--   <a href="your-portfolio-url">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a> -->
+</p>
 
-<!---
-AnkurSi18228/AnkurSi18228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnkurSi18228&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+  ### Thanks for visiting! 😊
+  
+  *⭐ Don't forget to star my repositories if you find them helpful!*
+  
+</div>
